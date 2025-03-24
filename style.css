@@ -1,0 +1,50 @@
+      body{
+        font-family: 'Times New Roman';
+        
+      }
+
+      .atas{
+         background-color: yellow;
+         color: white;
+         padding: 50px;
+         text-align: center;
+      }
+      .kiri{
+        background-color: burlywood;
+        color: white;
+        width: 20%;
+        height: 300px;        
+        float: left;
+      }
+      .prodi{
+        color: black;
+        font-family: 'Times New Roman';
+        padding-left: 20px;
+        padding-top: 10px;
+      }
+      .daftar{
+        color: white;
+        font-family: 'Times New Roman';
+        padding-left: 20px;  
+      }
+      .bawahh{
+            background-color: yellow;
+            color: white;
+            float: left;
+            padding: 30px;
+            clear: both;
+            text-align: center;
+            width: 100%;
+      }
+
+      .tengah
+      {
+        padding-left: 35px;
+        padding-top: 10px; 
+        background-color: white;
+        color: black;
+        width: 70%;
+        height: 250px;
+        float: left;
+
+      }
